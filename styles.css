@@ -7,8 +7,7 @@
 
 header {
     padding: 10px;
-    background: greenyellow;
-    
+    background: rgb(196, 233, 142);  
 }
 
 ul {
@@ -79,9 +78,11 @@ a {
 }
 
 header img {
-    border-radius: 0px;
+    width: 100%;
+    border-radius: 0;
 }
 
 img {
+    width: 100%;
     border-radius: 25%;  
 }
